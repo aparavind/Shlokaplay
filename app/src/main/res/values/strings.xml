@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shlokaplay</string>
+    <string name="action_settings">Settings</string>
+    <string name="json_file">JSON FILE</string>
+    <string name="base_path">BASE PATH</string>
+    <string name="current_shloka">CURRENT SHLOKA</string>
+</resources>
