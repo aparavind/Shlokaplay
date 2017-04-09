@@ -32,4 +32,3 @@ the know-er creates a folder which contains a json file , the set of mp3 files a
 when loaded into the app. the app displays one html and simultaneously starts reciting the corresponding shloka.
 
 we can loop the shloka , replay the shloka go to the next shloka etc all can be done
- Add a custom footer
