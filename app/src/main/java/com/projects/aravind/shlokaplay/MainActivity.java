@@ -28,6 +28,9 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 
+/**
+ * this is the main activity class.
+ */
 public class MainActivity extends AppCompatActivity implements MediaPlayer.OnPreparedListener, MediaController.MediaPlayerControl {
 
     private String shloka_json = "No JSON file selected";
